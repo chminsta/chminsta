@@ -3,7 +3,6 @@
 
 <h3> :man: &nbsp;About Me </h3>
  
-- 🦁 한양대학교 융합전자공학부 19학번
 - 🌱 꿈: 세상을 이롭게 하는, 인간을 위한 인공지능 전문가
 - 💙 관심 진로분야: 반도체 디지털회로 -> 인공지능 개발자
 - 💻 언어: 파이썬, 베릴로그, 어셈블리 언어, 매트랩, C#
@@ -11,7 +10,6 @@
 - 💜 취미: 음악 작곡 및 리믹스, 비트박스, 헬스
 - :electron: 학술동아리: [BARAMI](https://ibarami.com/)
 -------------------------------------------------------
-- 🦁 Hanyang University, Department of Convergence Electronic Engineering, Enrolled in 2019
 - 🌱 Wanna be: An expert in Artificial Intelligence for humans to benefit the world
 - 💙 Interested in: Semiconductor digital circuit -> AI developer
 - 💻 Language: python, verilog, assembly language, matlab code, c#
@@ -23,17 +21,17 @@
 -----------
 <h3> 🛠 &nbsp; Experiences </h3>
 
-- 🏫 한양대학교 융합전자공학부 재학중 (2019.03~)
+- 🦁 Hanyang University, Department of Convergence Electronic Engineering, Enrolled in 2019
     * Favorite classes: 
         + Linear Algebra, Data Structures, Signal and Systems, Digital Signal Processing, AI+X Deep Learning
         + Digital Logic Design, Circuit Theory, Operating Systems, Computer Architecture
         
 - 🪖 대한민국 육군 통신병 , 전산 통신작업 (2020.06~2021.12)
-- 🤖 2022 바라미 작품전시회, 과탑모닝콜 출품 (python) (2022.11)
+- 🤖 2022 학술동아리 바라미 작품전시회, 과탑모닝콜 출품 (python) (2022.11)
 - 📖 김회율 교수님 학부연구생💻 [Visit](http://labinno.co.kr/)(2023.01~2023.04)
     + Used C#, Studied OpenCv sharp, Hardware control etc..
     + 코딩을 하면서 Chat GPT의 도움을 많이 받았고, 인간의 편의를 위한 인공지능을 개발하고 싶은 꿈을 가지게 되어 진로를 변경하는 계기가 되었습니다
-- 📶 Studying 
+- 📶 Currently Studying 
   + SKT AI curriculum 
   + Cousera [Machine learning specialization](https://www.coursera.org/specializations/machine-learning-introduction)
   + Book [Deeplearning from scratch](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
