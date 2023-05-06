@@ -9,15 +9,15 @@
 - 💻 언어: 파이썬, 베릴로그, 어셈블리 언어, 매트랩, C#
 - 🖥️ 프로그램: vs 코드, vs, 매트랩, FL 스튜디오, 어도비 프리미어 프로 등
 - 💜 취미: 음악 작곡 및 리믹스, 비트박스, 헬스
-- :electron: 학술동아리: [BARIMI](https://ibarami.com/)
+- :electron: 학술동아리: [BARAMI](https://ibarami.com/)
 -------------------------------------------------------
 - 🦁 Hanyang University, Department of Convergence Electronic Engineering, Enrolled in 2019
-- 🌱 Wanna be: An expert in artificial intelligence for humans to benefit the world
+- 🌱 Wanna be: An expert in Artificial Intelligence for humans to benefit the world
 - 💙 Interested in: Semiconductor digital circuit -> AI developer
 - 💻 Language: python, verilog, assembly language, matlab code, c#
 - 🖥️ Programs: VS code, VS, Matlab, FL studio, Adobe Premiere Pro etc..
 - 💜 Hobbies: Composing music & remix, Beatbox, Fitness
-- :electron: Academic club: [BARIMI](https://ibarami.com/)
+- :electron: Academic club: [BARAMI](https://ibarami.com/)
 <br/>
 
 -----------
@@ -33,6 +33,10 @@
 - 📖 김회율 교수님 학부연구생💻 [Visit](http://labinno.co.kr/)(2023.01~2023.04)
     + Used C#, Studied OpenCv sharp, Hardware control etc..
     + 코딩을 하면서 Chat GPT의 도움을 많이 받았고, 인간의 편의를 위한 인공지능을 개발하고 싶은 꿈을 가지게 되어 진로를 변경하는 계기가 되었습니다
+- 📶 Studying 
+  + SKT AI curriculum 
+  + Cousera [Machine learning specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+  + Book [Deeplearning from scratch](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
 - 🔥 [HX-CES 2023](http://hxc.hanyang.ac.kr/) , 인공지능 기반 프로젝트 진행중 (2023.03~)
 - 🔥 [학술타운](https://hylu-s.hanyang.ac.kr/ko/program/all/view/1113) , 인공지능 기반 프로젝트 진행중 (2023.03~)
 
