@@ -28,7 +28,7 @@
         
 - 🪖 대한민국 육군 통신병 , 전산 통신작업 (2020.06~2021.12)
 - 🤖 2022 학술동아리 바라미 작품전시회, 과탑모닝콜 출품 (python) (2022.11)
-- 📖 김회율 교수님 학부연구생💻 [Visit](http://labinno.co.kr/)(2023.01~2023.04)
+- 📖 김회율 교수님 학부연구생💻 [Visit](http://labinno.co.kr/) (2023.01~2023.04)
     + Used C#, Studied OpenCv sharp, Hardware control etc..
     + 코딩을 하면서 Chat GPT의 도움을 많이 받았고, 인간의 편의를 위한 인공지능을 개발하고 싶은 꿈을 가지게 되어 진로를 변경하는 계기가 되었습니다
 - 📶 Currently Studying 
