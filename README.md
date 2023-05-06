@@ -39,15 +39,16 @@
 <br/>
 
 
-
+----------------------------------------
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 <!-- Connect with me -->
 <!--icons and links-->
-  * instagram : <https://www.instagram.com/ch_minsta>
-  * Hanyang Gmail : <lcemtimeter@hanyang.ac.kr>
+- Instagram : https://www.instagram.com/ch_minsta <br/>
+- HANYANG Gmail : lcemtimeter@hanyang.ac.kr
 
-</p>
+
+
 <!--
 **chminsta/chminsta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
