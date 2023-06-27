@@ -31,8 +31,8 @@
 - 📖 김회율 교수님 학부연구생💻 [Visit](http://labinno.co.kr/) (2023.01~2023.04)
     + Used C#, Studied OpenCv sharp, Hardware control etc..
     + 코딩을 하면서 Chat GPT의 도움을 많이 받았고, 인간의 편의를 위한 인공지능을 개발하고 싶은 꿈을 가지게 되어 진로를 변경하는 계기가 되었습니다
+- SKT AI curriculum 
 - 📶 Currently Studying 
-  + SKT AI curriculum 
   + Cousera [Machine learning specialization](https://www.coursera.org/specializations/machine-learning-introduction)
   + Book [Deeplearning from scratch](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
 - 🔥 [HX-CES 2023](http://hxc.hanyang.ac.kr/) , 인공지능 기반 프로젝트 진행중 (2023.03~)
