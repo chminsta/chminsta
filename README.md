@@ -17,6 +17,7 @@
 - 💜 Hobbies: Composing music & remix, Beatbox, Fitness
 - :electron: Academic club: [BARAMI](https://ibarami.com/)
 <br/>
+
 -------------------------------------------------------
 
 <h3>🏆 Awards </h3>
