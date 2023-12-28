@@ -31,7 +31,7 @@
         + Digital Logic Design, Circuit Theory, Operating Systems, Computer Architecture
         
 - 🪖 대한민국 육군 통신병 , 전산 통신작업 (2020.06~2021.12)
-- 🤖 2022 학술동아리 바라미 작품전시회, 과탑모닝콜 출품 (python) (2022.11)
+- 🤖 2022 2023 학술동아리 바라미 작품전시회 출품 (2022.11, 2023.11)
 - 📖 김회율 교수님 학부연구생💻 [Visit](http://labinno.co.kr/) (2023.01~2023.04)
     + Used C#, Studied OpenCv sharp, Hardware control etc..
 
