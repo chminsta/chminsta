@@ -17,7 +17,8 @@
 - 💜 Hobbies: Composing music & remix, Beatbox, Fitness
 - :electron: Academic club: [BARAMI](https://ibarami.com/)
 <br/>
----------------------------------
+-------------------------------------------------------
+
 <h3>🏆 Awards </h3>
 
 - [HX-CES 2023](http://hxc.hanyang.ac.kr/) 대상 수상 🥇(1st place)
