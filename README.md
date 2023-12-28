@@ -6,14 +6,14 @@
 - 🌱 꿈: 세상을 이롭게 하는, 인간을 위한 인공지능 전문가
 - 💙 관심 진로분야: 반도체 디지털회로 -> 인공지능 개발자 -> 작곡 AI 연구원
 - 💻 언어: 파이썬, 베릴로그, 어셈블리 언어, 매트랩, C#
-- 🖥️ 프로그램: VS code, VS, Matlab, FL 스튜디오, 어도비 프리미어 프로 등
+- 🖥️ 프로그램: VS code, Colab, VS, Matlab, FL 스튜디오, 어도비 프리미어 프로 등
 - 💜 취미: 음악 작곡 및 리믹스, 비트박스, 헬스
 - :electron: 학술동아리: [BARAMI](https://ibarami.com/)
 -------------------------------------------------------
 - 🌱 Wanna be: An expert in Artificial Intelligence for humans to benefit the world
 - 💙 Interested in: Semiconductor digital circuit -> AI developer
 - 💻 Language: python, verilog, assembly language, matlab code, c#
-- 🖥️ Programs: VS code, VS, Matlab, FL studio, Adobe Premiere Pro etc..
+- 🖥️ Programs: VS code, Colab, VS, Matlab, FL studio, Adobe Premiere Pro etc..
 - 💜 Hobbies: Composing music & remix, Beatbox, Fitness
 - :electron: Academic club: [BARAMI](https://ibarami.com/)
 <br/>
