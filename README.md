@@ -23,6 +23,7 @@
 <h3>🏆 Awards </h3>
 
 - [HX-CES 2023](http://hxc.hanyang.ac.kr/) 대상 수상 🥇(1st place)
+- [학술타운 LION 2023](http://hyicpbl.hanyang.ac.kr/learning/lion.php) 우수상 수상 🥇
 - [X-Corps Festival 2023](https://xcorpsplus.com/) 실전문제연구단협의회장상 수상 🏆
 
 -----------
@@ -42,9 +43,6 @@
 - 📶 Currently Studying 
   + Cousera [Machine learning specialization](https://www.coursera.org/specializations/machine-learning-introduction)
   + Book [Deeplearning from scratch](https://github.com/kchcoo/WegraLee-deep-learning-from-scratch)
-
-- 
-- 🔥 [학술타운](https://hylu-s.hanyang.ac.kr/ko/program/all/view/1113) , 인공지능 기반 프로젝트 진행중 (2023.03~)
 
 <br/>
 
